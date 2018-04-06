@@ -1,2 +1,2 @@
-# ADBIASWS
-Advanced BioImage Analysis Workshop
+# ADBIASWS-Ilastik
+Singularity image for Ilastik for the usage in the Advanced BioImage Analysis Workshop
